@@ -5,7 +5,7 @@ class Config(object):
     # pyro client config
     API_ID    = os.environ.get("API_ID", "22606849")
     API_HASH  = os.environ.get("API_HASH", "ef85493cd32eadcb5309b5957d8d1b86")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7449624586:AAFYE_bEJuXLF9yg_u5R_KNGxT2rHCVl_NI") 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7516860880:AAGDW9KWsd4HEX6UdjYqkKqur66eU-VVtgU") 
 
     # database config
     DB_NAME = os.environ.get("DB_NAME","Meowtaro")     
@@ -13,9 +13,9 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://graph.org/file/4b306f4b15c23a8f22e58.jpg")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/57bd97b6f1c75302c0a59-e83725f2ee87694c00.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '6440021089').split()]
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1002034112983") 
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "Anime_Sovereign") 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002134572304"))
     
     # wes response configuration     
@@ -48,14 +48,14 @@ Use These Keywords To Setup Custom File Name
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
-    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/AutoRenameXBot'>Auto Rename Bot ⚡</a>
+    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/Auto_Renamex_Bot'>Auto Rename Bot ❣️</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Itsme_meowtaro'>Touka Sama</a>
     
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Anime_Sovereign"""
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
