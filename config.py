@@ -25,7 +25,7 @@ class Config(object):
 class Txt(object):
     # part of text configuration
         
-    START_TXT = """Hello {} 
+    START_TXT = """Maow {} 
     
 ➻ This Is An Advanced And Yet Powerful Rename Bot.
     
@@ -44,7 +44,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Madflix_Bots </code>
+<b>➻ Example :</b> <code> /autorename Tokyo Ghoul S01 - Episode - quality  [Dual Audio] - @Anime_Sovereign </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
@@ -52,7 +52,7 @@ Use These Keywords To Setup Custom File Name
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
+<b>📢 Channel :</b> <a href='https://t.me/Anime_Sovreign'>Anime Sovereign</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Itsme_meowtaro'>Touka Sama</a>
     
 <b>♻️ Bot Made By :</b> @Anime_Sovereign"""
@@ -82,7 +82,7 @@ Use These Keywords To Setup Custom File Name
     
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
     
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> """
+<b>🛍 UPI ID:</b> <code>Noi he</code> """
     
     HELP_TXT = """<b>Hey</b> {}
     
