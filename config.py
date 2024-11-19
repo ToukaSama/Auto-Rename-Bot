@@ -8,7 +8,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7516860880:AAGDW9KWsd4HEX6UdjYqkKqur66eU-VVtgU") 
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Meowtaro")     
+    DB_NAME = os.environ.get("DB_NAME","meowtaro")     
     DB_URL  = os.environ.get("DB_URL","mongodb+srv://meow:meow@meow.a6bo1.mongodb.net/?retryWrites=true&w=majority&appName=meow")
  
     # other configs
